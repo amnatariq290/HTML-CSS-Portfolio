@@ -49,29 +49,8 @@ nav {
     color: #b711e0;
     border-bottom: 2px solid #b711e0;
 }
-.resume-section {
-    color: white;
-    text-align: center;
-    margin: 50px 0;
-    padding: 20px;
-}
 
-.resume-btn {
-    display: inline-block;
-    padding: 10px 25px;
-    background-color: #b711e0;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: 0.3s;
-}
 
-.resume-btn:hover {
-    background-color: transparent;
-    border: 2px solid #b711e0;
-    box-shadow: 0 0 15px #b711e0;
-}
 
 /* Toggle Button & Dropdown */
 #menu-toggle {
