@@ -3,6 +3,8 @@
 This is a **multi-page responsive portfolio website** created using **HTML** and **CSS** only. The project showcases my skills, work samples, and personal information, designed with modern layout, animations, and responsive design principles.
 
 ---
+## Preview
+https://resplendent-otter-66d76a.netlify.app/
 
 ## ScreenShots
 ![image](https://github.com/user-attachments/assets/30396ebf-c083-4c89-92f0-fb98f6e7b85d)
@@ -51,7 +53,7 @@ This is a **multi-page responsive portfolio website** created using **HTML** and
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/amnatariq290/portfolio-website.git
 ```
 
 2. Open the project folder:
