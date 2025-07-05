@@ -4,13 +4,10 @@ This is a **multi-page responsive portfolio website** created using **HTML** and
 
 ---
 
-## 🌐 Live Preview
-
-https://resplendent-otter-66d76a.netlify.app/
-
----
 ## ScreenShots
 ![image](https://github.com/user-attachments/assets/30396ebf-c083-4c89-92f0-fb98f6e7b85d)
+![image](https://github.com/user-attachments/assets/4edbacbf-b619-4875-9d73-b55ae25dacd9)
+![image](https://github.com/user-attachments/assets/0ed32e90-e0c9-4fd5-b1a8-1339c26752ef)
 
 ---
 ## 📂 Project Structure
@@ -85,12 +82,6 @@ This project is for educational and personal use. Feel free to customize for you
 
 ---
 
-## 👷‍♀️ Connect with Me
 
-- **LinkedIn:** [Your Profile Link]  
-- **GitHub:** [Your Profile Link]  
-- **Email:** [your.email@example.com]  
-
----
 
 **⭐ Don't forget to give this repo a star if you like it!**
