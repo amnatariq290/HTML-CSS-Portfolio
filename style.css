@@ -30,8 +30,6 @@ nav {
     color: white;
     font-size: 2rem;
     font-weight: bold;
-    position: relative;
-    left: 30px;
 }
 
 .logo span {
@@ -107,6 +105,7 @@ section {
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .main-container .content {
@@ -117,7 +116,7 @@ section {
 }
 
 .content h1 {
-    font-size: clamp(1rem, 1rem + 5vw, 1.8rem);
+    font-size: clamp(1.2rem, 1.2rem + 5vw, 2rem);
 }
 
 .content h1 span {
@@ -127,13 +126,13 @@ section {
 }
 
 .typewriter {
-    font-size: clamp(1rem, 1rem + 5vw, 2.5rem);
+    font-size: clamp(1rem, 1rem + 5vw, 2rem);
     font-weight: 700;
     margin: 10px 0;
     overflow: hidden;
     border-right: 2px solid #b711e0;
     white-space: nowrap;
-    animation: typing 3s steps(20), blink 0.5s step-end infinite alternate;
+    animation: typing 3s steps(40), blink 0.5s step-end infinite alternate;
 }
 
 @keyframes typing {
@@ -146,7 +145,7 @@ section {
 }
 
 .content p {
-    font-size: clamp(0.8rem, 0.5rem + 3vw, 1.1rem);
+    font-size: clamp(0.9rem, 0.5rem + 3vw, 1.1rem);
     margin: 20px 0;
 }
 
@@ -255,7 +254,6 @@ footer {
 @media (max-width: 884px) {
     .main-container {
         flex-direction: column-reverse;
-        text-align: center;
     }
 
     .nav-container .links {
@@ -273,6 +271,14 @@ footer {
     .main-container .image {
         width: 60%;
         height: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .typewriter {
+        animation: none;
+        border-right: none;
+        width: 100%;
     }
 }
 
