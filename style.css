@@ -52,10 +52,19 @@ nav {
     border-bottom: 2px solid #b711e0;
 }
 
+/* Toggle Button & Dropdown */
 #menu-toggle {
     display: none;
 }
 
+.hamburg {
+    display: none;
+    cursor: pointer;
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    right: 20px;
+}
 
 .dropdown {
     display: none;
@@ -64,6 +73,7 @@ nav {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.9);
     top: 10vh;
+    left: 0;
     z-index: 100;
 }
 
