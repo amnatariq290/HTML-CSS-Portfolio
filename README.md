@@ -6,11 +6,13 @@ This is a **multi-page responsive portfolio website** created using **HTML** and
 
 ## 🌐 Live Preview
 
-**[View Live Website](#)**  
-*(Replace `#` with your actual hosted link if deployed on GitHub Pages, Netlify, etc.)*
+https://resplendent-otter-66d76a.netlify.app/
 
 ---
+## ScreenShots
+![image](https://github.com/user-attachments/assets/30396ebf-c083-4c89-92f0-fb98f6e7b85d)
 
+---
 ## 📂 Project Structure
 
 ```
